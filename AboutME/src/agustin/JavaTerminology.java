@@ -5,7 +5,11 @@ package agustin;
 
 /**
  * @author 343784815
- *
+ *ICS3U
+ *Albert Jay Agustin
+ *September/16/2016
+ *JavaTerminology.java
+ *Java word description
  */
 public class JavaTerminology {
 
@@ -21,7 +25,7 @@ public class JavaTerminology {
 		System.out.format("\n");
 		System.out.format("Class- The Description of an object.\n");
 		System.out.format("\n");
-		System.out.format("Compiling- The process where source code converted to code the computer understand.\n");
+		System.out.format("Compiling- Is process where source code converted to code the computer understand.\n");
 		System.out.format("\n");
 		System.out.format("String- A set of characters.\n");
 	}

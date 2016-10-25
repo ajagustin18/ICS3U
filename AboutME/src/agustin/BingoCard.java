@@ -5,7 +5,11 @@ package agustin;
 
 /**
  * @author 343784815
- *
+ *ICS3U
+ *Albert Jay Agustin
+ *September/14/2016
+ *BingoCard.java
+ *Bingo Card
  */
 public class BingoCard {
 
@@ -18,7 +22,7 @@ public class BingoCard {
 		System.out.format("%2s%4s%4s%4s%5s", "B", "I", "N", "G", "O\n\n");
 		System.out.format("%2s%4s%4s%4s%4s", "2", "20", "42", "60", "64\n");
 		System.out.format("%2s%4s%4s%4s%4s", "14", "25", "32", "55", "70\n");
-		System.out.format("%2s%4s%5s%4s%4s", "5", "18", "FREE", "53", "67\n");
+		System.out.format("%2s%4s%5s%3s%4s", "5", "18", "FREE", "53", "67\n");
 		System.out.format("%2s%4s%4s%4s%4s", "12", "16", "31", "46", "75\n");
 		System.out.format("%2s%4s%4s%4s%4s", "10", "22", "39", "59", "71\n");
 	}

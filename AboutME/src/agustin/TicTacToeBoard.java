@@ -5,7 +5,11 @@ package agustin;
 
 /**
  * @author 343784815
- *
+ *ICS3U
+ *Albert Jay Agustin
+ *September/15/2016
+ *TicTacToe.java
+ *Tic Tac Toe Board
  */
 public class TicTacToeBoard {
 
