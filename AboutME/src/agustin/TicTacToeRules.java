@@ -17,6 +17,7 @@ public class TicTacToeRules {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		System.out.println("Tic Tac Toe Rules\n");
 
 		System.out.println("Tic Tac Toa is a game for 2 Players.\n");
