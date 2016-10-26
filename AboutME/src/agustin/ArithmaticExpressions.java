@@ -5,7 +5,10 @@ package agustin;
 
 /**
  * @author 343784815
+ *Albert Jay Agustin
  *
+ *ArithmaticExpressions.java
+ *Arithmetic Expressions  
  */
 import java.util.Scanner;
 public class ArithmaticExpressions {
