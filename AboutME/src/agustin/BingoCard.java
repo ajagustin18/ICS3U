@@ -5,7 +5,6 @@ package agustin;
 
 /**
  * @author 343784815
- *ICS3U
  *Albert Jay Agustin
  *September/14/2016
  *BingoCard.java

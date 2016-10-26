@@ -5,7 +5,6 @@ package agustin;
 
 /**
  * @author 343784815
- *ICS3U
  *Albert Jay Agustin
  *September/13/2016
  *AboutMe.java
@@ -21,7 +20,7 @@ public class AboutMe {
 		System.out.println("Albert Jay Agustin");
 		System.out.println("Ms. Kemp");
 		System.out.println("Runnymede C.I");
-		System.out.println("\"GO RAVENS\"\n\n");
+		System.out.println("\"GO RAVENS\"\n");
 		
 		System.out.format("%-10s %15s %17s","Weekdays","ClassCode","Time\n\n");
 		System.out.format("%-10s %8s %20s","Monday-Friday\t","SPH3U1-01","08:45 am\n");

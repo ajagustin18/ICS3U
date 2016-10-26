@@ -5,7 +5,6 @@ package agustin;
 
 /**
  * @author 343784815
- *ICS3U
  *Albert Jay Agustin
  *September/26/2016
  *BinaryNumbert.java
@@ -18,7 +17,7 @@ public class BinaryNumbers {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.format("%-7s %15s%14s", "Decimal", "Binary","Hexadecimal\n");
+		System.out.format("%-7s %15s%20s", "Decimal", "Binary","Hexadecimal\n");
 		System.out.format("%7s%14s%16s", "1","1","1\n");
 		System.out.format("%7s%14s%16s", "2","10","2\n");
 		System.out.format("%7s%14s%16s", "3","11","3\n");
