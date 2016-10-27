@@ -1,6 +1,3 @@
-/**
- * 
- */
 package agustin;
 
 /**
@@ -38,9 +35,6 @@ public class BinaryNumbers {
 		System.out.format("%7s%14s%16s", "18","10010","12\n");
 		System.out.format("%7s%14s%16s", "19","10011","13\n");
 		System.out.format("%7s%14s%15s", "20","10100","14");
-		
-		
-		
 		
 
 	}
