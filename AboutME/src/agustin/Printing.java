@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author 343784815
  *Albert Jay Agustin
  *October 31/2016
- *Printing number of copies
+ *Printing number of copies and the cost of it
  */
 public class Printing {
 
