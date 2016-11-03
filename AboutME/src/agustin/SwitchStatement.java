@@ -47,13 +47,13 @@ public class SwitchStatement {
 		default: dayString = " An Invalid Day";
 		}
 		if (day <= 1){
-			System.out.println("The "+ day +"st of the week is "+ dayString);}
+			System.out.println("The "+ day +"st day of the week is "+ dayString);}
 		else if (day <= 2){
-			System.out.println("The "+ day +"nd of the week is "+ dayString);}
+			System.out.println("The "+ day +"nd day of the week is "+ dayString);}
 		else if (day <= 3){
-			System.out.println("The "+ day +"rd of the week is "+ dayString);}
+			System.out.println("The "+ day +"rd day of the week is "+ dayString);}
 		else {
-			System.out.println("The "+ day +"th of the week is "+ dayString);}
+			System.out.println("The "+ day +"th day of the week is "+ dayString);}
 	}
 
 }
