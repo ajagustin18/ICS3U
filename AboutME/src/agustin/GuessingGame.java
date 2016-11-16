@@ -7,7 +7,10 @@ import java.util.Scanner;
 
 /**
  * @author 343784815
- *
+ *Albert Jay Agustin
+ *November 10/2016
+ *GuessingGame.java
+ *Number guessing game between user and computer
  */
 public class GuessingGame {
 

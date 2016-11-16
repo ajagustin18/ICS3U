@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
  *Albert Jay Agustin
  *November 10/2016
  *RandomGenerator.java
- *
+ *Random Generator application that implements the Linear Congruential Method which generate 10 random number without repeating them
  */
 public class RandomGenerator {
 
