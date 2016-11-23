@@ -8,7 +8,10 @@ import java.util.Scanner;
 
 /**
  * @author 343784815
- *
+ *Albert Jay Agustin
+ *September 22/2016
+ *Project.java
+ *Shows and calculate the percentage of each time it took to do the task
  */
 public class Project {
 

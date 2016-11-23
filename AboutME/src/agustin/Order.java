@@ -2,6 +2,13 @@
  * 
  */
 package agustin;
+/**
+ * @author 343784815
+ *Albert Jay Agustin
+ *September/16/2016
+ *Order.java
+ *Shows and calculate the total, before tax, and change
+ */
 import java.text.DecimalFormat;
 /**
  * @author 343784815

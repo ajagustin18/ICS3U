@@ -5,10 +5,11 @@ package agustin;
 
 /**
  * @author 343784815
+
  *Albert Jay Agustin
- *
+ *September 28/2016
  *ArithmaticExpressions.java
- *Arithmetic Expressions  
+ *Arithmetic Expressions that shows and calculation the equation
  */
 import java.util.Scanner;
 public class ArithmaticExpressions {

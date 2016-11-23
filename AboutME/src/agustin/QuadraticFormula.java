@@ -5,7 +5,10 @@ package agustin;
 
 /**
  * @author 343784815
- *
+ *Albert Jay Agustin
+ *September 28/2016
+ *QuadraticFormula.java
+ *Shows and calculate the quadratic equation
  */
 import java.util.Scanner;
 import java.text.DecimalFormat;
