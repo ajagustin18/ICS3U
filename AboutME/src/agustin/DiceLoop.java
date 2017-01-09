@@ -22,22 +22,22 @@ public class DiceLoop {
 		
 		Scanner scan = new Scanner (System.in);
 		
-		int die1;
-		int die2;
+		int dice1;
+		int dice2;
 		String question = "yes";
 		
 do{	
-		die1=(int)(Math.random()*6)+1;
-		die2=(int)(Math.random()*6)+1;
+		dice1=(int)(Math.random()*6)+1;
+		dice2=(int)(Math.random()*6)+1;
 		
 		
-		if (die1>die2){
+		if (dice1>dice2){
 			System.out.println("YOU WON!!!");}
 		
-		else if (die1<die2){
+		else if (dice1<dice2){
 			System.out.println("YOU LOSE!!!");}
 		
-		else if (die1==die2){
+		else if (dice1==dice2){
 			System.out.println("ITS A TIE!!!");
 		}
 		System.out.println("Would you like to play again?");
