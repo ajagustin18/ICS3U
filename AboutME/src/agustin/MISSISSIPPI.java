@@ -12,6 +12,9 @@ package agustin;
  */
 public class MISSISSIPPI {
 
+	/**
+	 * Draw letter M
+	 */
 	public static void BigM(){
 		System.out.println("M     M");
 		System.out.println("MM   MM");
@@ -21,6 +24,9 @@ public class MISSISSIPPI {
 		System.out.println("M     M");
 		System.out.println("M     M");
 	}
+	/**
+	 * Draw letter S
+	 */
 	public static void BigS(){
 		System.out.println(" SSSSS ");
 		System.out.println("S     S ");
@@ -30,6 +36,9 @@ public class MISSISSIPPI {
 		System.out.println("S     S");
 		System.out.println(" SSSSS ");
 	}
+	/**
+	 * Draw letter I
+	 */
 	public static void BigI(){
 		System.out.println("IIIII");
 		System.out.println("  I  ");
@@ -39,6 +48,9 @@ public class MISSISSIPPI {
 		System.out.println("  I  ");
 		System.out.println("IIIII");
 	}
+	/**
+	 * Draw letter P
+	 */
 	public static void BigP(){
 		System.out.println("PPPPP ");
 		System.out.println("P    P");
